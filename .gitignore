@@ -1,5 +1,3 @@
 node_modules/
 .vscode/
 .DS_Store
-dist/uber_style.css
-dist/uber.html
