@@ -1,1 +1,1 @@
-This repository serves as a comprehensive portfolio of my projects, showcasing my proficiency in a diverse TechStack that includes HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS.
+This repository features a practice project I created while following a tutorial. It showcases my skills in using Tailwind CSS to build a website. It demonstrates my ability to apply what I’ve learned effectively.
